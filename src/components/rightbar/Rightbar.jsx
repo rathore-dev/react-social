@@ -58,7 +58,7 @@ const ProfileRightBar = ()=>{
     <div className="rightbarFollowings">
       <div className="rightbarFollowing">
         <img src="./assets/person/image-01.webp" alt="" className="rightbarFollowingImg" />
-      <span className="rightbarFollowingName"> ABCDEFGH</span>
+      <span className="rightbarFollowingName"> ABCDEFGH </span>
       </div>
       <div className="rightbarFollowing">
         <img src="./assets/person/image-01.webp" alt="" className="rightbarFollowingImg" />
